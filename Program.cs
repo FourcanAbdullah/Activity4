@@ -26,12 +26,12 @@ interface Students
 
     }
     
-    public string classroomPub
+    public double gpaPub
     {
         get
         {
             
-            return classroomPub;
+            return gpaPub;
             
         }
 
@@ -48,7 +48,7 @@ interface Students
         }
     }
 
-    void StudentClass();
+    void StudentGPA();
 	void StudentBirthYear();
 	void StudentCollege();
 
@@ -73,14 +73,14 @@ public class StudentInformation : Students
 			StudentUnknown(this, null!);
     }
     public string studentNamePub = "Fourcan";
-    public string studentYearPub = "2050";
-    public string classroomPub = "Online API Class";
+    public int studentYearPub = 2050;
+    public double gpaPub = 3.2;
     public string CollegePub = "Hunter College";
     
 
-    public void StudentClass()
+    public void StudentGPA()
 	{
-		Console.WriteLine($"Student is taking a {classroomPub}");
+		Console.WriteLine($"Student has a {gpaPub} GPA");
 		OnStudentUnknown();
 	}
 	public void StudentBirthYear()
@@ -118,7 +118,7 @@ class Program
 		StudentServices StudentService = new StudentServices();
 		Fourcan.StudentUnknown += StudentService.OnStudentUnknown;
 		Fourcan.StudentName();
-		Fourcan.StudentClass();
+		Fourcan.StudentGPA();
 		Fourcan.StudentCollege();
 		Fourcan.StudentBirthYear();
 
