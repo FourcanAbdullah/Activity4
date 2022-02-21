@@ -1,0 +1,15 @@
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\bin\Debug\net6.0\Act4.exe
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\bin\Debug\net6.0\Act4.deps.json
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\bin\Debug\net6.0\Act4.runtimeconfig.json
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\bin\Debug\net6.0\Act4.dll
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\bin\Debug\net6.0\ref\Act4.dll
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\bin\Debug\net6.0\Act4.pdb
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\obj\Debug\net6.0\Act4.csproj.AssemblyReference.cache
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\obj\Debug\net6.0\Act4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\obj\Debug\net6.0\Act4.AssemblyInfoInputs.cache
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\obj\Debug\net6.0\Act4.AssemblyInfo.cs
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\obj\Debug\net6.0\Act4.csproj.CoreCompileInputs.cache
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\obj\Debug\net6.0\Act4.dll
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\obj\Debug\net6.0\ref\Act4.dll
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\obj\Debug\net6.0\Act4.pdb
+C:\Users\forqa\OneDrive\Documents\API Class\APIClass\Act4\obj\Debug\net6.0\Act4.genruntimeconfig.cache
